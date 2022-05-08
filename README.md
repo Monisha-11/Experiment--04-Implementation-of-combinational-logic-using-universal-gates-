@@ -87,31 +87,33 @@ endmodule
 
 ### Truthtable:
 
-![output](./output1.png)
+![output1](https://user-images.githubusercontent.com/93427240/167295830-a3fc6753-a276-4f5f-b88c-5261cc6d54bf.png)
+
 
 ###  RTL realization:
 
-![output](./output2.png)
-
+![output2](https://user-images.githubusercontent.com/93427240/167295837-ebf48940-7666-4e8e-a9ed-95cb364635ff.png)
 
 ### Timing diagram 
 
-![output](./output3.png)
+![output3](https://user-images.githubusercontent.com/93427240/167295842-0b08354c-9d15-4fcc-b87d-3c4e9ad200f3.png)
+
 
 ## F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')' using NOR gate
 
 ### Truthtable:
 
-![output](./output4.png)
+![output4](https://user-images.githubusercontent.com/93427240/167295980-4765834c-7d9a-4757-ac9c-9b9a54c39897.png)
+
 
 ###  RTL realization:
 
-![output](./output5.png)
-
+![output5](https://user-images.githubusercontent.com/93427240/167295988-62a2ce85-5c56-479a-8df4-227bdd6ac28b.png)
 
 ### Timing diagram 
 
-![output](./output6.png)
+![output6](https://user-images.githubusercontent.com/93427240/167295991-1f7d7011-4b6b-4458-b45b-e73762259edf.png)
+
 
 ## Result:
  
