@@ -116,4 +116,6 @@ endmodule
 
 
 ## Result:
+
+Thus implementation of logic functions using NAND and NOR gates is done and its operation is verified in Quartus using Verilog programming.
  
